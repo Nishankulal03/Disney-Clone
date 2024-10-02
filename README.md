@@ -42,5 +42,5 @@
 
 <h2>Contact 📬</h2>
 <p>
-  For any questions or collaboration opportunities, feel free to reach out through the contact form on the website or via my social media profiles.
+  For any questions or collaboration opportunities, feel free to reach out through the contact form on the <a href="https://portfolio-nishan.vercel.app/">Portfolio website</a> or via my social media profiles.
 </p>
