@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Disney Clone Project</title>
-</head>
-<body>
     <h1>🎬 Disney Clone Project</h1>
 
     <p>This repository contains the source code and files for my Disney Clone project, built using React, Vite, and Tailwind CSS.</p>
@@ -51,5 +43,4 @@
     <img src="image.png" alt="Disney Clone Screenshot" style="max-width: 100%; height: auto;">
 
     <p>Thank you for visiting my Disney Clone repository! I hope you find it enjoyable and informative. 🎉</p>
-</body>
-</html>
+
