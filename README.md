@@ -1,46 +1,46 @@
-    <h1>🎬 Disney Clone Project</h1>
+<h1>Disney Clone Project 🎬✨</h1>
 
-    <p>This repository contains the source code and files for my Disney Clone project, built using React, Vite, and Tailwind CSS.</p>
+<p>This repository contains the source code for my Disney Clone project, built using <strong>React.js</strong>, <strong>Vite</strong>, and <strong>Tailwind CSS</strong>.</p>
 
-    <h2>📜 Description</h2>
-    <p>The Disney Clone project replicates the user interface of Disney+, showcasing various features and functionality similar to the original platform. It serves as a practical application of my skills in web development and design, offering a visually appealing and interactive experience for users.</p>
+<h2>Description 📜</h2>
+<p>
+  This project is a clone of the Disney+ interface, showcasing various features and functionalities similar to the original platform.
+</p>
 
-    <h2>✨ Features</h2>
-    <ul>
-        <li><strong>🏠 Home</strong>: A welcoming section introducing the Disney Clone interface, featuring a carousel of popular shows and movies.</li>
-        <li><strong>🔍 Search</strong>: A search functionality allowing users to find specific titles from the Disney+ library.</li>
-        <li><strong>➕ Watch List</strong>: A feature for users to keep track of their favorite movies and shows.</li>
-        <li><strong>⭐ Originals</strong>: A dedicated section showcasing original content produced by Disney+.</li>
-        <li><strong>🎥 Movies & 📺 Series</strong>: Sections for browsing through various movies and series available on the platform.</li>
-    </ul>
+<h2>Features 🌟</h2>
+<ul>
+  <li><strong>Home:</strong> A welcoming section introducing various Disney characters and movies.</li>
+  <li><strong>Search:</strong> A search functionality to find specific movies or shows.</li>
+  <li><strong>Watch List:</strong> A section to save favorite movies.</li>
+  <li><strong>Originals:</strong> Showcases Disney's original content.</li>
+  <li><strong>Movies:</strong> A list of available movies.</li>
+  <li><strong>Series:</strong> A list of available series.</li>
+</ul>
 
-    <h2>🛠️ Technologies Used</h2>
-    <ul>
-        <li><strong>⚛️ React</strong>: JavaScript library used for building the interactive user interface.</li>
-        <li><strong>🚀 Vite</strong>: Build tool that offers a fast development environment.</li>
-        <li><strong>🎨 Tailwind CSS</strong>: Utility-first CSS framework used for styling and responsive design.</li>
-        <li><strong>💻 JavaScript</strong>: For adding dynamic functionality to the website.</li>
-        <li><strong>📡 Axios</strong>: For making HTTP requests to fetch data from APIs.</li>
-    </ul>
+<h2>Technologies Used 🛠️</h2>
+<ul>
+  <li><strong>React:</strong> JavaScript library for building user interfaces.</li>
+  <li><strong>Vite:</strong> Build tool that provides a fast development environment.</li>
+  <li><strong>Tailwind CSS:</strong> Utility-first CSS framework for styling.</li>
+  <li><strong>JavaScript:</strong> Programming language used for interactive features.</li>
+  <li><strong>Axios:</strong> Promise-based HTTP client for making requests.</li>
+</ul>
 
-    <h2>🚀 Getting Started</h2>
-    <p>To view or modify the website locally, follow these steps:</p>
-    <ol>
-        <li>Clone the repository: <code>git clone [repository URL]</code></li>
-        <li>Navigate to the project folder in your terminal.</li>
-        <li>Run <code>npm install</code> to install dependencies.</li>
-        <li>Run <code>npm run dev</code> to start the development server.</li>
-        <li>Open <code>localhost:5173</code> in your web browser to view the website.</li>
-    </ol>
+<h2>Getting Started 🚀</h2>
+<p>To view or modify the project locally, follow these steps:</p>
+<ol>
+  <li>Clone the repository: <code>git clone [repository URL]</code></li>
+  <li>Navigate to the project folder: <code>cd Disney-clone</code></li>
+  <li>Install dependencies: <code>npm install</code></li>
+  <li>Start the development server: <code>npm run dev</code></li>
+  <li>Open your browser and go to <code>http://localhost:5173</code>.</li>
+</ol>
 
-    <h2>🤝 Contributing</h2>
-    <p>I welcome any suggestions or feedback to improve this Disney Clone project. If you'd like to contribute, please follow the guidelines outlined in the <code>CONTRIBUTING.md</code> file.</p>
+<h2>Preview 📸</h2>
+<p>Here’s a screenshot of the Disney Clone project:</p>
+<img src="./image.png" alt="Disney Clone Screenshot" />
 
-    <h2>📬 Contact</h2>
-    <p>For any questions or collaboration opportunities, feel free to reach out through the contact form on the website or via my social media profiles.</p>
-
-    <h2>📸 Screenshot</h2>
-    <img src="image.png" alt="Disney Clone Screenshot" style="max-width: 100%; height: auto;">
-
-    <p>Thank you for visiting my Disney Clone repository! I hope you find it enjoyable and informative. 🎉</p>
-
+<h2>Contact 📬</h2>
+<p>
+  For any questions or collaboration opportunities, feel free to reach out through the contact form on the website or via my social media profiles.
+</p>
